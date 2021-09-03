@@ -1,7 +1,7 @@
 cask "clipmenu" do
   version "0.4.4a12"
 
-  url "https://raw.githubusercontent.com/caj380/homebrew-caj380/master/Casks/ClipMenu_{version}.zip",
+  url "https://raw.githubusercontent.com/caj380/homebrew-caj380/master/Casks/ClipMenu_{version}.zip"
   name "Clipmenu"
   desc "Clipboard extension app"
   homepage "http://www.clipmenu.com/"
