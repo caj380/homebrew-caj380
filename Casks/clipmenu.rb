@@ -1,6 +1,6 @@
 cask "clipmenu" do
   version "0.4.4a12"
-  sha256 "3accb981ec0e3a00b984401c76428f6aedef29ea"
+  sha256 "05232fc411db989702527f1939b619df2482ed09c2a59363cc5a750e0f544652"
 
   url "https://raw.githubusercontent.com/caj380/homebrew-caj380/master/Casks/ClipMenu_#{version}.zip",
       verified: "github.com/caj380/homebrew-caj380/"
