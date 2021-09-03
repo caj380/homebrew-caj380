@@ -1,5 +1,6 @@
 cask "clipmenu-dark" do
   version "0.4.4a12"
+  sha256 "0957c948587dc26d0a60cd96e34d360df0945bae"
 
   url "https://raw.githubusercontent.com/caj380/homebrew-caj380/master/Casks/ClipMenu-Dark_#{version}.zip",
       verified: "github.com/caj380/homebrew-caj380/"
