@@ -8,8 +8,6 @@ cask "clipmenu-dark" do
   desc "Clipboard extension app"
   homepage "http://www.clipmenu.com/"
 
-  depends_on macos: ">= :yosemite"
-
   app "ClipMenu.app"
 
   uninstall quit: "com.naotaka.ClipMenu"
